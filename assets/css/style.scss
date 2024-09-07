@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-slate";
+
+.header {
+    display: flex;
+    align-items: center; /* Zentriert den Text vertikal mit dem Logo */
+    justify-content: flex-start; /* Hält alles linksbündig */
+}
+
+.logo {
+    margin-right: 20px; /* Abstand zwischen Logo und Text */
+}
+
+.text {
+    display: flex;
+    flex-direction: column; /* Richtet den Titel und Untertitel untereinander aus */
+}

@@ -11,6 +11,9 @@
 
 .logo {
     margin-right: 20px; /* Abstand zwischen Logo und Text */
+    width: 4em; /* Setzt die Breite des Logos auf 2-mal die Schriftgröße von h1 */
+    height: auto; /* Beibehaltung des Seitenverhältnisses */
+    border: none;
 }
 
 .text {

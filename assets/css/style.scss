@@ -15,11 +15,13 @@
     height: auto; /* Beibehaltung des Seitenverhältnisses */
     border: none; /* Entfernt den Rahmen */
     outline: none; /* Entfernt eventuell ein Outline */
-    box-shadow: none; /* Entfernt eventuell einen Schattenrahmen */
+    box-shadow: none; /* Entfernt eventuell einen Schattenrahmen */        
 }
 
 .text {
     display: flex;
     flex-direction: column; /* Richtet den Titel und Untertitel untereinander aus */
-    font-family: "Courier New", "Courier", monospace;
+    h1, h2 {
+        font-family: "Courier New", "Courier", monospace;
+    }
 }

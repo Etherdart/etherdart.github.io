@@ -1,6 +1,6 @@
-Stay tuned
+# _Stay tuned_
 
-## For producer of electronic dart systems
+## For producers of electronic dart systems
 Do you want that your customers can get the best from your board and allow them to play online on different sites or to use different dart game software?
 
 ## For writers of dart game software or online dart platforms
